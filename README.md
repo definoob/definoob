@@ -1,6 +1,8 @@
-[![Linkedin Badge](https://img.shields.io/badge/-NJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-nj-dev/)](https://www.linkedin.com/in/-nj-dev/)
-[![Gmail Badge](https://img.shields.io/badge/-noahjun511@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noahjun511@gmail.com)](mailto:noahjun511@gmail.com)
-[![Website](https://img.shields.io/badge/Website-noahjun.com-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://noahjun.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-nj-dev/)](https://www.linkedin.com/in/-nj-dev/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Cool_Kid_Plum/)](https://twitter.com/Cool_Kid_Plum/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noahjun511@gmail.com)](mailto:noahjun511@gmail.com)
+[![Website](https://img.shields.io/badge/Website-purple?style=flat-square&logo=vercel&logoColor=white)](https://noahjun.com)
+<a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
 
 
 -----------------------------------------------------------------------------------------------------
